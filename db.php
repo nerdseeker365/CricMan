@@ -21,10 +21,10 @@ $dbname = "epiz_17259702_hit";
 */
 
 
-$servername = "127.0.0.1";
-$username = "root";
-$password = "";
-$dbname = "cricdb";
+$servername = "sql201.epizy.com";
+$username = "epiz_20053716";
+$password = "123abcABC";
+$dbname = "epiz_20053716_cricman";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
