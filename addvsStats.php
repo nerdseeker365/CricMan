@@ -70,24 +70,24 @@ $pid = $_GET['pid'];
 										  
 										
                                       </select> 										   
-                                            MAT : <input type="number" id="mat" name="mat" value="0"placeholder="">
-											ING : <input type="number" id="bat_ing" name="bat_ing" value="0"placeholder="">
-											BALS : <input type="number" id="balls" name="balls" value="0"placeholder="">
-											RUNS : <input type="number" id="runs" name="runs" value="0"placeholder="">
-											NO : <input type="number" id="nos" name="nos" value="0"placeholder="">
-											25 : <input type="number" id="fif" name="fif" value="0"placeholder="">
-											50 : <input type="number" id="hun" name="hun" value="0"placeholder="">
+                                            MAT : <input type="number" id="mat" name="mat" value="0"placeholder=""><br/>
+											ING : <input type="number" id="bat_ing" name="bat_ing" value="0"placeholder=""><br/>
+											BALS : <input type="number" id="balls" name="balls" value="0"placeholder=""><br/>
+											RUNS : <input type="number" id="runs" name="runs" value="0"placeholder=""><br/>
+											NO : <input type="number" id="nos" name="nos" value="0"placeholder=""><br/>
+											25 : <input type="number" id="fif" name="fif" value="0"placeholder=""><br/>
+											50 : <input type="number" id="hun" name="hun" value="0"placeholder=""><br/>
 											BEST : <input type="text" id="bat_bst" name="bat_bst" value="0"placeholder="">								  
 								  </div><!-- Batting Panel End -->
 								  
                                   <div id="bowtab" class="tab-pane ">
-								  ING : <input type="number" id="bow_ing" name="bow_ing" value="0"placeholder="">
-											OVRS : <input type="number" id="ovrs" name="ovrs" value="0"placeholder="">
-											B.Runs : <input type="number" id="bow_runs" name="bow_runs" value="0"placeholder="">
-											WIK : <input type="number" id="wik" name="wik" value="0"placeholder="">
-											3W : <input type="number" id="tw" name="tw" value="0"placeholder="">
-											5W : <input type="number" id="fw" name="fw" value="0"placeholder="">
-											BEST: <input type="text" id="bow_bst" name="bow_bst" placeholder="3-56">
+								  ING : <input type="number" id="bow_ing" name="bow_ing" value="0"placeholder=""><br/>
+											OVRS : <input type="number" id="ovrs" name="ovrs" value="0"placeholder=""><br/>
+											B.Runs : <input type="number" id="bow_runs" name="bow_runs" value="0"placeholder=""><br/>
+											WIK : <input type="number" id="wik" name="wik" value="0"placeholder=""><br/>
+											3W : <input type="number" id="tw" name="tw" value="0"placeholder=""><br/>
+											5W : <input type="number" id="fw" name="fw" value="0"placeholder=""><br/>
+											BEST: <input type="text" id="bow_bst" name="bow_bst" placeholder="3-56"><br/>
 											
 							
 									  PID : <input type="text" id="pid" name="pid" value="<?php echo $pid?>" placeholder="">	
