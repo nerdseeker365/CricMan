@@ -14,3 +14,8 @@ WEBSITE :  https://deployer.vc
 URL       : https://smlcodes.deployer.vc
 USERNAME  : smlcodes
 PWD       : 123abcABC#
+
+ - -- - - - -- -- 
+ https://smlcodes.deployhq.com/
+ USERNAME : smlcodes@gmail.com
+ pwd      :   123abcABC#
