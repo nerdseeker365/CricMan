@@ -66,24 +66,24 @@ $pid = $_GET['pid'];
                                           <option value="test">TEST</option>
 										  <option value="tt">T-20</option>
 										  <option value="fc">F.C</option>
-                                      </select> 										   
-                                            MAT : <input type="number" id="mat" name="mat" value="0"placeholder=""><br/>
-											ING : <input type="number" id="bat_ing" name="bat_ing" value="0"placeholder=""><br/>
-											BALS : <input type="number" id="balls" name="balls" value="0"placeholder=""><br/>
-											RUNS : <input type="number" id="runs" name="runs" value="0"placeholder=""><br/>
-											NO : <input type="number" id="nos" name="nos" value="0"placeholder=""><br/>
-											50 : <input type="number" id="fif" name="fif" value="0"placeholder=""><br/>
-											100 : <input type="number" id="hun" name="hun" value="0"placeholder=""><br/>
-											BEST : <input type="text" id="bat_bst" name="bat_bst" value="0"placeholder="">								  
+                                      </select><br/>								   
+                                            MAT : <input type="number" id="mat" name="mat" value="0" onfocus="this.select()" placeholder=""><br/>
+											ING : <input type="number" id="bat_ing" name="bat_ing" value="0" onfocus="this.select()" placeholder=""><br/>
+											BALS : <input type="number" id="balls" name="balls" value="0" onfocus="this.select()" placeholder=""><br/>
+											RUNS : <input type="number" id="runs" name="runs" value="0" onfocus="this.select()" placeholder=""><br/>
+											NO : <input type="number" id="nos" name="nos" value="0" onfocus="this.select()" placeholder=""><br/>
+											50 : <input type="number" id="fif" name="fif" value="0" onfocus="this.select()" placeholder=""><br/>
+											100 : <input type="number" id="hun" name="hun" value="0" onfocus="this.select()" placeholder=""><br/>
+											BEST : <input type="text" id="bat_bst" name="bat_bst" value="0" onfocus="this.select()" placeholder="">								  
 								  </div><!-- Batting Panel End -->
 								  
                                   <div id="bowtab" class="tab-pane ">
-								  ING : <input type="number" id="bow_ing" name="bow_ing" value="0"placeholder=""><br/>
-											OVRS : <input type="number" id="ovrs" name="ovrs" value="0"placeholder=""><br/>
-											B.Runs : <input type="number" id="bow_runs" name="bow_runs" value="0"placeholder=""><br/>
-											WIK : <input type="number" id="wik" name="wik" value="0"placeholder=""><br/>
-											3W : <input type="number" id="tw" name="tw" value="0"placeholder=""><br/>
-											5W : <input type="number" id="fw" name="fw" value="0"placeholder=""><br/>
+								  ING : <input type="number" id="bow_ing" name="bow_ing" value="0" onfocus="this.select()" placeholder=""><br/>
+											OVRS : <input type="number" id="ovrs" name="ovrs" value="0" onfocus="this.select()" placeholder=""><br/>
+											B.Runs : <input type="number" id="bow_runs" name="bow_runs" value="0" onfocus="this.select()" placeholder=""><br/>
+											WIK : <input type="number" id="wik" name="wik" value="0" onfocus="this.select()" placeholder=""><br/>
+											3W : <input type="number" id="tw" name="tw" value="0" onfocus="this.select()" placeholder=""><br/>
+											5W : <input type="number" id="fw" name="fw" value="0" onfocus="this.select()" placeholder=""><br/>
 											BEST: <input type="text" id="bow_bst" name="bow_bst" placeholder="3-56"><br/>
 											
 							
