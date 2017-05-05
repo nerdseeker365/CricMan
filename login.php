@@ -7,7 +7,7 @@ session_start();
 <?php
 //echo "after Include";
 if(isset($_SESSION['login_user'])){
-header("location: userdashboard.php");
+header("location: solomode.php");
 //echo "In Header";
 }
 ?>
@@ -168,7 +168,7 @@ toastr.success("SOk"," Ok ");
 	       			
 					if(st=='active')
 					{
-						window.location.assign("userdashboard.php")
+						window.location.assign("solomode.php")
 
 					}
 	       			
