@@ -1,8 +1,7 @@
-DB name :	epiz_20053716_cricman
-username:	epiz_20053716
 host	:	sql201.epizy.com
-pwd	:	123abcABC
-
+username:	epiz_20053716
+pwd		:	123abcABC
+DB name :	epiz_20053716_cricman
 ================== FTP ==================
 FTP Host Name	:ftp.epizy.com	
 FTP Port	:21
