@@ -8,3 +8,9 @@ FTP Host Name	:ftp.epizy.com
 FTP Port	:21
 FTP User Name	:epiz_20053716
 FTP Password	:(Your cPanel Password)
+
+=============== AUTO DEPLOYMENTS =============
+WEBSITE :  https://deployer.vc
+URL       : https://smlcodes.deployer.vc
+USERNAME  : smlcodes
+PWD       : 123abcABC#
